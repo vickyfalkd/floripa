@@ -1,0 +1,92 @@
+h1 { 
+font-family: Apple Chancery;
+font-size: 40px;
+line-height: 1.0;
+text-align: center;
+color: #91aecf
+}
+h1 a:hover {
+background-color: #F0F8FF;
+color: #8c8b8b;
+}
+h2{
+font-family: Bradley Hand, cursive;
+line-height: 1.0;
+color: #DEB887
+}
+h4{
+font-family: serif;
+line-height: 1.0;
+font-size: 18px;
+color: #000000
+}
+p{
+font-family: serif;
+line-height: 1.2;
+color: #000000
+}
+li{
+font-family: serif;
+line-height: 1.5;
+color: #000000
+}
+.container {
+margin: 0 auto;
+width: 960px;
+}
+.place {
+ border-color: #000000 #000000 #000000 #000000;
+ border: 3px solid #f5f5b5;
+ margin-bottom: 20px;
+ padding: 10px;
+}
+.place h2{
+ border-bottom: 4px solid #f5f5b5;
+ margin: 0;
+}
+body {
+background: #F0F8FF;
+line-height: 0.8;
+}
+.place {
+background-color:#FFFFE0;
+margin-bottom:20px;
+padding:10px;
+}
+.place a{ 
+color:#6495ED;
+font-weight: bold;
+}
+.place img{ 
+border: 2px dashed #c4d1a1; 
+float: left; 
+margin :10px 10px 0 0; 
+padding: 2px; }
+
+.clear {
+clear: both; 
+}
+.footer {
+font-size: 15px;
+text-align: center;
+}
+.sidenote h3 {
+font-size: 20px;
+margin-top: 0;
+}
+.places {
+float: left;
+width: 660px;
+}
+
+.sidenote {
+background-color: #e4f2bd0;
+border: 3px dashed #c4d1a1;
+float: right;
+padding: 10px;
+width: 260px;
+}
+.sidenote ol {
+font-size: 20px;
+font
+}
